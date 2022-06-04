@@ -1,9 +1,9 @@
-  ####   Hi there 👋
-  #### 🔭 I’m currently working on BLOCKCHAINS AND SMART CONTRACTS SECURITY
-  #### 🌱 I’m currently learning WEB3
-  #### 📫 How to reach me: 
-    #####   Email:     kkrabindar@gmail.com
-    #####   Twitter:   krabindar9
+  #####   Hi there 👋
+  ##### 🔭 I’m currently working on BLOCKCHAINS AND SMART CONTRACTS SECURITY
+  ##### 🌱 I’m currently learning WEB3
+  ##### 📫 Reaching Out:
+              Email:     kkrabindar@gmail.com
+              Twitter:   krabindar9
 
 <!--
 **rkumar0099/rkumar0099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
