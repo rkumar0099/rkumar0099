@@ -1,6 +1,5 @@
   #####   Hi there 👋
   ##### 🔭 I’m currently working on BLOCKCHAINS AND SMART CONTRACTS SECURITY
-  ##### 🌱 I’m currently learning WEB3
   ##### 📫 Reaching Out:
               Email:     kkrabindar@gmail.com
               Twitter:   krabindar9
